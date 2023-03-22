@@ -1,0 +1,9 @@
+{
+    "requirements": [
+      {
+        "description": "1 - A aplicação pergunta, no terminal, o peso e a altura",
+        "bonus": false
+      }
+    ]
+}
+  
