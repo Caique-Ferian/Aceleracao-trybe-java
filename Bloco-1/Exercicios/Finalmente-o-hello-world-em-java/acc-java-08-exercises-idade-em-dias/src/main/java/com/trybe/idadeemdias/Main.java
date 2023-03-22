@@ -8,8 +8,8 @@ import java.util.Scanner;
  */
 public class Main {
   /**
-   * Pegando informações do usuário e executando método da classe Pessoa.
-   *
+   * Pegando informações do usuário e executando método da classe Pessoa
+   * para exibir idade em dias.
    */
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
