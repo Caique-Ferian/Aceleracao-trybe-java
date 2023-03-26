@@ -16,7 +16,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] 2-2: _Variáveis e seus tipos_
 - [X] 2-3: _Estruturas condicionais e de repetição_
 - [X] 2-4: _Finalmente, o "Hello world!" em Java!_
-- [X] 2-5: _[Desafio agregador: Controle de acesso]()_
+- [X] 2-5: _[Desafio agregador: Controle de acesso](https://github.com/Caique-Ferian/Aceleracao-trybe-java/tree/main/Bloco-1/Projeto/acc-java-08-exercises-controle-de-acesso)_
 
 ##### Bloco 3: Orientação a objetos
 
