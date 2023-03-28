@@ -20,9 +20,9 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 ##### Bloco 3: Orientação a objetos
 
-- [ ] 3-1: _Abstração - as Classes em Java_
-- [ ] 3-2: _Getters e Setters_
-- [ ] 3-3: _Encapsulamento e Herança_
+- [X] 3-1: _Abstração - as Classes em Java_
+- [X] 3-2: _Getters e Setters_
+- [X] 3-3: _Encapsulamento e Herança_
 - [ ] 3-4: _Polimorfismo_
 - [ ] 3-5: _Interfaces e Classes Abstratas_
 - [ ] 3-6: _[Desafio agregador: Sistema de votação]()_
