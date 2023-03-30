@@ -5,7 +5,7 @@
     <property name="checkstyle.header.file" value="/home/caique/Courses/ESTUDO-POR-CONTA/Aceleracao-trybe-java/.metadata/.plugins/org.eclipse.core.resources/.projects/sample-acc-java/com.basistech.m2e.code.quality.checkstyleConfigurator/checkstyle-header-checkstyle.txt"/>
     <property name="checkstyle.cache.file" value="${project_loc}/target/checkstyle-cachefile"/>
   </local-check-config>
-  <fileset name="java-sources-checkstyle" enabled="true" check-config-name="Google Checks" local="false">
+  <fileset name="java-sources-checkstyle" enabled="true" check-config-name="maven-checkstyle-plugin checkstyle" local="true">
     <file-match-pattern match-pattern="^src/main/java/.*\/.*\.java" include-pattern="true"/>
     <file-match-pattern match-pattern="^src/main/resources.*\.properties" include-pattern="true"/>
     <file-match-pattern match-pattern="^src/test/resources.*\.properties" include-pattern="true"/>
