@@ -10,12 +10,12 @@ Desafio simples em Java, visando utilizar bibliotecas padrão do Java com Testes
 1. Clone o repositório
 
   ```bash
-  cd acc-java-08-controle-de-acesso && mvn install
+  cd acc-java-08-exercises-controle-de-acesso && mvn install
   ```
 
 2. Importe o projeto no Eclipse como Maven Project - Existing Maven Project
 
-3. Botão direito no arquivo Principal.java em src.main.java.com.trybe.acc.controledeacesso
+3. Botão direito no arquivo Principal.java em src.main.java.com.trybe.acc.java.controledeacesso
 
 4. Run As Java Application
 
