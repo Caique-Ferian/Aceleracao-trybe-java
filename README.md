@@ -25,7 +25,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 - [X] 3-3: _Encapsulamento e Herança_
 - [X] 3-4: _Polimorfismo_
 - [X] 3-5: _Interfaces e Classes Abstratas_
-- [ ] 3-6: _[Desafio agregador: Sistema de votação]()_
+- [X] 3-6: _[Desafio agregador: Sistema de votação](https://github.com/Caique-Ferian/Aceleracao-trybe-java/tree/main/Bloco-2/Projeto/acc-java-08-exercises-sistema-de-votacao)_
 
 ##### Bloco 4: Manipulação de textos e arquivos
 
