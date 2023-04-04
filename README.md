@@ -31,7 +31,7 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 - [X] 4-1: _Leitura e escrita em arquivos_
 - [X] 4-2: _Lidando com Strings_
-- [X] 4-3: _[Desafio agregador: Conversor CSV]()_
+- [X] 4-3: _[Desafio agregador: Conversor CSV](https://github.com/Caique-Ferian/Aceleracao-trybe-java/tree/main/Bloco-4/Projeto/acc-java-08-exercises-conversor-csv)_
 
 ##### Bloco 5: Tratamento de erros
 
