@@ -29,9 +29,9 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 ##### Bloco 4: Manipulação de textos e arquivos
 
-- [ ] 4-1: _Leitura e escrita em arquivos_
-- [ ] 4-2: _Lidando com Strings_
-- [ ] 4-3: _[Desafio agregador: Conversor CSV]()_
+- [X] 4-1: _Leitura e escrita em arquivos_
+- [X] 4-2: _Lidando com Strings_
+- [X] 4-3: _[Desafio agregador: Conversor CSV]()_
 
 ##### Bloco 5: Tratamento de erros
 
