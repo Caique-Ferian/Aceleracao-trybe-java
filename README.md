@@ -35,9 +35,9 @@ _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vi
 
 ##### Bloco 5: Tratamento de erros
 
-- [ ] 5-1: _Try/Catch! As exceções que Java lança e as formas de pegá-las_
-- [ ] 5-2: _Refinando seu tratamento de erros_
-- [ ] 5-3: _[Desafio agregador: Simulador de pix]()_
+- [X] 5-1: _Try/Catch! As exceções que Java lança e as formas de pegá-las_
+- [X] 5-2: _Refinando seu tratamento de erros_
+- [X] 5-3: _[Desafio agregador: Simulador de pix](https://github.com/Caique-Ferian/Aceleracao-trybe-java/tree/main/Bloco-5/Projeto/acc-java-08-exercises-simulador-de-pix)_
 
 ##### Bloco 6: Coleções
 
